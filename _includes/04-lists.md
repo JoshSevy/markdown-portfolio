@@ -1,0 +1,6 @@
+- TypeScript
+- AngularJS
+- SCSS
+- Kayaking
+- Drawing
+- Photography
